@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "875214260623",
+    "firebase_url": "https://whatapp-7b5ac.firebaseio.com",
+    "project_id": "whatapp-7b5ac",
+    "storage_bucket": "whatapp-7b5ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875214260623:android:b1ad44db5ddf19da",
+        "android_client_info": {
+          "package_name": "gabrielveigalima.com.br.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875214260623-18phsr1185u9co1fnehcbmgrg7psom5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gabrielveigalima.com.br.whatsapp",
+            "certificate_hash": "b78338e4c4773b720ceddd74abe2b7d701f6f8e1"
+          }
+        },
+        {
+          "client_id": "875214260623-9lug4h4q1hnfu3p59ibdcim9s62i9suq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUD6AHVAeQgzO_Uh0gT1ECJIQg9dUnysY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875214260623-9lug4h4q1hnfu3p59ibdcim9s62i9suq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
